@@ -118,6 +118,10 @@ body{
     opacity: 1;
 }
 
+.hide{
+    display: none;
+}
+
 footer{
   position: fixed;
   left: 0;
